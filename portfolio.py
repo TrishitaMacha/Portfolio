@@ -78,7 +78,7 @@ col1, col2 = st.columns([2,1])
 
 with col1:
     st.markdown("<div class='hero-title'>Hi, I’m Trishita 👋</div>", unsafe_allow_html=True)
-    st.markdown("<div class='hero-sub'>Data Analyst • GenAI • Streamlit Developer</div>", unsafe_allow_html=True)
+    st.markdown("<div class='hero-sub'>Data Analyst • GenAI </div>", unsafe_allow_html=True)
     st.markdown("""
     <div class='hero-desc'>
     B.Tech (ECE) graduate with strong expertise in Python, Data Analysis,
@@ -276,3 +276,4 @@ with tabs[5]:
     💻 GitHub: https://github.com/TrishitaMacha
     </div>
     """, unsafe_allow_html=True)
+
